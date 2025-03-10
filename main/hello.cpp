@@ -6,7 +6,7 @@ int main(void)
 {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
-  cout << "I have successfully  \n";
+  cout << "I have successfully Yaay!\n";
   cout << "Amazing\n";
   return 0;
 }
